@@ -12,6 +12,6 @@ Front-end of a technical interview done between 10/12/21 and 12/12/21.
 
 ## Screenshots
 
-![Home Page / Employees](./static/Screenshot1.png)
-![Employee information](./static/Screenshot2.png)
-![Add employee form](./static/Screenshot3.png)
+![Home Page / Employees](https://raw.githubusercontent.com/alteos98/employees_codetest_frontend/master/static/Screenshot1.PNG)
+![Employee information](https://raw.githubusercontent.com/alteos98/employees_codetest_frontend/master/static/Screenshot2.PNG)
+![Add employee form](https://raw.githubusercontent.com/alteos98/employees_codetest_frontend/master/static/Screenshot3.PNG)
