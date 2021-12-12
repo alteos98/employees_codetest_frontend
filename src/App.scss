@@ -1,0 +1,31 @@
+html {
+	background-color: #e5e8ee;
+	height: 100%;
+}
+
+body {
+	font-family: "lato", sans-serif;
+}
+
+.App {
+	text-align: center;
+}
+
+.link-div {
+	display: flex;
+	justify-content: center;
+	margin: 2em 0;
+
+	.link-home {
+		color: rgb(53, 49, 49);
+		padding: 1.2em 4em;
+		font-size: 15px;
+		margin: 0.5em;
+	}
+	.link-add-employee {
+		color: rgb(53, 49, 49);
+		padding: 1.2em 4em;
+		font-size: 15px;
+		margin: 0.5em;
+	}
+}
